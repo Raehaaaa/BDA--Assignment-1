@@ -1,0 +1,17 @@
+$whoami
+ubuntu
+
+$pwd
+/home/ubuntu
+
+$ps
+PID   TTY     TIME        CMD
+3193  pts/1   00:00:00    bash
+3237  pts/1   00:00:00    wc
+3258  pts/1   00:00:00    cat
+3281  pts/1   00:00:00    head
+3285  pts/1   00:00:00    ps
+3288  pts/1   00:00:00    uname
+
+$uname
+Linux
